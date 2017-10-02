@@ -5,8 +5,6 @@
     android:orientation="vertical"
     tools:context="com.example.root.schoolmgtsystem.HomeFragment">
 
-    <!-- TODO: fragment that houses the RecyclerView  -->
-
     <TextView
         android:id="@+id/nhub_logo"
         android:layout_width="wrap_content"
