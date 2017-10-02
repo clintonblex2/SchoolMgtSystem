@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="@string/home"/>
+        <item
+            android:id="@+id/nav_attendance"
+            android:icon="@drawable/ic_attendance"
+            android:title="@string/attendance" />
+        <item
+            android:id="@+id/nav_notification"
+            android:icon="@drawable/ic_notifications"
+            android:title="@string/notification" />
+        <item
+            android:id="@+id/nav_timetable"
+            android:icon="@drawable/ic_timetable"
+            android:title="Timetable"/>
+        <item
+            android:id="@+id/nav_grade"
+            android:icon="@drawable/ic_grade"
+            android:title="@string/grade" />
+        <item
+            android:id="@+id/nav_psychomotor"
+            android:icon="@drawable/ic_psychomotor"
+            android:title="@string/psychomotor" />
+        <item
+            android:id="@+id/nav_assignment"
+            android:icon="@drawable/ic_assignment_black"
+            android:title="@string/assignment"/>
+    </group>
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/space"
+            android:title="" />
+
+        <item
+            android:id="@+id/sign_out"
+            android:icon="@drawable/ic_signout"
+            android:title="@string/sign_out"/>
+
+    </group>
+
+</menu>

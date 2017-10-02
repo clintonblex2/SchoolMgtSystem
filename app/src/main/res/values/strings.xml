@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">SchoolMgtSystem</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!--<string name="fees">FEES &amp; PAYMENT</string>-->
+    <string name="home">Home</string>
+    <string name="attendance">Take Attendance</string>
+    <string name="notification">Notifications</string>
+    <string name="grade">Student Grade</string>
+    <string name="timetable">Timetable</string>
+    <string name="psychomotor">Student Psychomotor Assessment</string>
+    <string name="assignment">Student Assignment</string>
+    <string name="sign_out">Sign Out</string>
+
+    <string-array name="teachers_homepage">
+        <item>Take Attendance</item>
+        <item>Notifications</item>
+        <item>Student Grade</item>
+        <item>Psychomotor Assessment</item>
+        <item>Timetable</item>
+        <item>Student Assigment</item>
+    </string-array>
+
+    <string-array name="teachers_homepage_images">
+        <item>@drawable/attendance_img</item>
+        <item>@drawable/notification_img</item>
+        <item>@drawable/grade_img</item>
+        <item>@drawable/psychomotor_img</item>
+        <item>@drawable/timetable_img</item>
+        <item>@drawable/assignment_img</item>
+    </string-array>
+
+    <string name="teacher_dashboard">Teacher\'s Dashboard</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
